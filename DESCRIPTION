@@ -1,0 +1,16 @@
+Package: mytoolsmm
+Title: Utility function for Spatial anaylisis
+Version: 0.0.0.9000
+Authors@R: 
+    person("Mauro", "Mardones", , "mardones.mauricio@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package have simple function to do a simple plot custom to MMardones.
+License: Apache License (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    ggplot2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
