@@ -2,7 +2,7 @@ Package: mytoolsmm
 Title: Utility function for Spatial anaylisis
 Version: 0.0.0.9000
 Authors@R: 
-    person("Mauro", "Mardones", , "mardones.mauricio@gmail.com", role = c("aut", "cre"),
+    person("Jeanette" "Clark", "Mauro", "Mardones", , "mardones.mauricio@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: This package have simple function to do a simple plot custom to MMardones.
 License: Apache License (>= 2)
